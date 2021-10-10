@@ -1,6 +1,6 @@
-Homework 1 for Machine Learning (2021 Fall)
+# Homework 1 for Machine Learning (2021 Fall)
 
-Sources of Reference
+Sources of References:
 MLE (GDA)
 （Chinese）https://blog.csdn.net/qq_30091945/article/details/81503187
 https://www.youtube.com/watch?v=JjB58InuTqM
